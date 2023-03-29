@@ -15,8 +15,8 @@ public class Soma {
 
       total = n1 + n2;
 
-      System.out.println("O valor da soma das variáveis é: " + total);
-
+      System.out.println("O resultado da soma é: " + total);
+      
+      banana.close();
    }
-   
 }
